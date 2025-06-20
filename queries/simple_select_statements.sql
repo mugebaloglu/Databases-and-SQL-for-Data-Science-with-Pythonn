@@ -1,1 +1,1 @@
--- Simple SELECT Statements\nSELECT * FROM table_name;
+SELECT * FROM FilmLocations;
