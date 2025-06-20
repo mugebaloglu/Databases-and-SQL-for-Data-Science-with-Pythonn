@@ -1,0 +1,1 @@
+-- Simple SELECT Statements\nSELECT * FROM table_name;
